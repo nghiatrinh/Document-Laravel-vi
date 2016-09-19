@@ -1,6 +1,6 @@
 # Tài liệu Laravel
 
-Đây là bản dịch tiếng Việt của tài liệu chuẩn của Laravel.
+Đây là bản dịch tiếng Việt của tài liệu chuẩn của Laravel.(copy from Pete Houston, link chính: https://github.com/petehouston/laravel-docs-vn)
 
 ## Mục lục
 
